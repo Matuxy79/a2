@@ -1,0 +1,17 @@
+#John Matukutire
+#11303324
+#CMPT 145 CRN 27177
+#L16
+  
+
+1. I am happy with my programs correctness because it did the task required by the test cases without issue
+
+2. My program is efficient because it quickly replaces and moves all the required objects with minimal fuss
+
+3. My program is not too adaptable as it was built with the example text documents in mind as the only parameters but for that it works perfectly  with the left and rights
+
+4. My program is robust and doesnt fault with any inputs.
+
+5. I spent a few days in a row writing it and making tweaks to try update and improve it
+
+6. Since it was the second assignment and there was lots of time to do the assignment I took quite a few breaks between so not really distractions, more of rests and breaks. Not much to improve there

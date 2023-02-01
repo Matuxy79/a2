@@ -1,0 +1,10 @@
+#John Matukutire
+#11303324
+#CMPT 145 CRN 27177
+#L16
+  
+My plan took a few hours on the first day to do
+
+My design ended up being exactly how I solved the problem for this assignment as it was pretty short and straight forward
+
+The last phase took slightly longer than expected because I was just tinkering around with different ways to solve the problem and I decided on which function to hand in after a while.

@@ -1,0 +1,14 @@
+#John Matukutire
+#11303324
+#CMPT 145 CRN 27177
+#L16
+  
+The start - for starters in this assignment after reading the assignment I have reserved the weekend to begin designing my assignment in my apartment.
+
+DESIGN - The design phase will begin on Friday in the morning after my classes
+
+IMPLEMENTATION - I will start implementing my ideas later that day during the night until I get sleepy or finish
+
+TESTING/DEBUGGING - Saturday and Sunday I will finish my program and start testing and debugging my program until Im happy with the outcome and tweaking it.
+
+TIDYING UP - Sometime during the week of the deadline I will submit the assignment.

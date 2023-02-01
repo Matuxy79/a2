@@ -1,0 +1,14 @@
+#John Matukutire
+#11303324
+#CMPT 145 CRN 27177
+#L16
+  
+After reading the question I figured out that Im going to need a function that reads the external text files so I will define a function that takes in an argumentwhich will be text documents for testing.
+
+The first part of my function will be reading a test file and opening it.I will use pythons built in function to count the number of occurances of L and R on each line of the text docs and assign the value to variables I will use for calculation later. 
+
+Creating a variable that increments for a loop I will use to read each lines left and right and calc the distance.
+
+The second part of my function will be printing and calling the variables for use in calc's by using if statements to find the bigger value and subtract the smaller variable from it so theres no negative direction.
+
+The last part will just be calling the function and printing the outputs
